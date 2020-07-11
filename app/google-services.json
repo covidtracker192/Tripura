@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777910738736",
+    "firebase_url": "https://tripura-6018b.firebaseio.com",
+    "project_id": "tripura-6018b",
+    "storage_bucket": "tripura-6018b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777910738736:android:ae122b857ea1b0b30032f5",
+        "android_client_info": {
+          "package_name": "com.covid19.tripura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777910738736-4aap07nhavlsq8ea7tuvolejcigv3jvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8YeyOcxFe5Vq_71EIDR4o0nI7gLKKao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777910738736-4aap07nhavlsq8ea7tuvolejcigv3jvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
